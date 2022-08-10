@@ -10,4 +10,4 @@
 
 ### 오늘의 학습 내용
 : MyBasicStudy  
-[👉이동]
+[👉이동](https://bestofge.github.io/HelloWorld/)
