@@ -9,4 +9,5 @@
 [👉이동]https://bestofge.github.io/MyDataAnalysis/)
 
 ### 오늘의 학습 내용
-: 
+: MyBasicStudy  
+[👉이동]
