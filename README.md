@@ -6,8 +6,8 @@
 
 ### 머신러닝 클래스
 내용 : 머신러닝 학습 기록
-해당 저정소 이동 : 
+해당 저정소 이동 : [html] ()
 
 ### 데이터 분석해 보기
 내용 : 다양한 데이터 셋을 기본 EDA부터 기본모델까지 만들어보기
-해당 저정소 이동 : [HTML} ( https://bestofge.github.io/MyDataAnalysis/ )
+해당 저정소 이동 : [html] ( https://bestofge.github.io/MyDataAnalysis/ )
