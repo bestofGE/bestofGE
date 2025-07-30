@@ -1,5 +1,5 @@
 # 👋 Hi there! 
-# I'm a backend developer who builds scalable, reliable services.
+## I'm a backend developer who builds scalable, reliable services.
 안녕하세요. **지속 가능하고 확장성 있는 백엔드 시스템**을 만들기 위해 고민하는 개발자 최가은입니다.  
 탄탄한 기본기 위에, 성능 최적화와 클린 아키텍처에 관심을 가지고 꾸준히 성장하고 있어요.
 
