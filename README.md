@@ -7,27 +7,48 @@
 
 ## 💼 Tech Stack & Interests
 
-- **Language:** Java
-- **Backend Frameworks:** Spring Boot, JPA, QueryDSL
-- **DevOps:** Docker, GitHub Actions, AWS EC2/S3, NCP
-- **Infra & Monitoring:** Redis (👀 exploring)
-- **Testing & Quality:** JUnit5, Mockito, Testcontainers, SonarQube
-- **DB Design:** MySQL, MSSQL, Oracle (ERD 설계부터 쿼리 튜닝까지!)
+- **Languages:**  
+  C, Java, Python  
 
+- **Frontend:**  
+  HTML5, CSS3, JavaScript (ES6+)  
+
+- **Backend Frameworks:**  
+  Spring Boot, JPA, QueryDSL  
+
+- **DevOps & CI/CD:**  
+  Docker, GitHub Actions, AWS EC2/S3, NCP
+
+- **Infra & Monitoring:**  
+  Redis (👀 exploring)
+
+- **Testing & Quality:**  
+  JUnit5, Mockito, Testcontainers, SonarQube  
+
+- **Database & Design:**  
+  MySQL, MSSQL, Oracle
+   
 ---
 
 ## 📌 What I Value
 
-- **Clean Code & Clear Responsibility**
-  - 비즈니스 로직은 서비스에, 검증은 도메인에.
-  - 객체 간의 관계를 명확히 하고 의존성을 낮추는 구조를 지향합니다.
+### 🧹 1. Maintainable & Clear Code
+- **비즈니스 로직**과 **검증 책임**을 명확히 분리
+- 객체 간 **의존성 최소화**와 **가독성 높은 코드**
+- 변경에 강한 구조를 위한 **지속적인 리팩토링**
 
-- **Realistic Testing**
-  - 실제 Bean을 최대한 활용해, 쓸데없는 모킹은 줄이는 단위 테스트.
-  - 유지보수 가능한 테스트 코드를 위한 리팩토링도 주저하지 않아요.
+---
 
-- **Restful Thinking**
-  - 도메인 모델 중심의 URL 설계, 표준적인 HTTP 상태코드 활용, 의미 있는 에러 응답 제공.
+### 🎯 2. Pragmatic Problem-Solving
+- 이상과 현실 사이에서 **균형 잡힌 의사결정**
+- **성능 · 유지보수성 · 사용자 경험(UX)**을 함께 고려
+- 기술 도입 시 **맥락과 필요성**을 먼저 분석
+
+---
+
+### ✅ 3. Reliable & Realistic Testing
+- 실제 Bean과 환경을 활용한 **신뢰성 높은 테스트**
+- **API 일관성**과 **예측 가능성**을 유지하는 설계
 
 ---
 
