@@ -9,7 +9,7 @@
 
 - **Language:** Java
 - **Backend Frameworks:** Spring Boot, JPA, QueryDSL
-- **DevOps:** Docker, GitHub Actions, AWS EC2/S3
+- **DevOps:** Docker, GitHub Actions, AWS EC2/S3, NCP
 - **Infra & Monitoring:** Redis (👀 exploring)
 - **Testing & Quality:** JUnit5, Mockito, Testcontainers, SonarQube
 - **DB Design:** MySQL, MSSQL (ERD 설계부터 쿼리 튜닝까지!)
@@ -56,7 +56,7 @@
 ## 📫 Contact
 
 - **Email:** bestofge@naver.com
-- **Velog:** [https://velog.io/@bestofge]([https://velog.io/@bestofge/posts])
+- **Velog:** [https://velog.io/@bestofge] ([https://velog.io/@bestofge/posts])
 
 함께 성장하고 싶은 개발자,  
 **'의미 있는 코드'를 쓰기 위해 계속 도전 중입니다.**
