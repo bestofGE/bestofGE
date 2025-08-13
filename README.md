@@ -12,7 +12,7 @@
 - **DevOps:** Docker, GitHub Actions, AWS EC2/S3, NCP
 - **Infra & Monitoring:** Redis (👀 exploring)
 - **Testing & Quality:** JUnit5, Mockito, Testcontainers, SonarQube
-- **DB Design:** MySQL, MSSQL (ERD 설계부터 쿼리 튜닝까지!)
+- **DB Design:** MySQL, MSSQL, Oracle (ERD 설계부터 쿼리 튜닝까지!)
 
 ---
 
