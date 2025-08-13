@@ -56,7 +56,7 @@
 ## 📫 Contact
 
 - **Email:** bestofge@naver.com
-- **Velog:** [https://velog.io/@bestofge]
+- **Velog:** https://velog.io/@bestofge
 
 함께 성장하고 싶은 개발자,  
 **'의미 있는 코드'를 쓰기 위해 계속 도전 중입니다.**
